@@ -4,8 +4,7 @@ Donate link: http://mikhailkozlov.com/
 Tags: analytics, site performance, copyright
 Requires at least: 2.9.0
 Tested up to: 3.1
-License: MIT
-Author Url: http://mikhailkozlov.com/
+Stable tag: 1.0.0
 
 Tynt.com For WordPress helps to easily configure tynt.com analytics script from WordPress admin panel.
 
