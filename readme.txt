@@ -30,4 +30,4 @@ Once installed you control:
 
 == Arbitrary section ==
 
-License: MIT
+MIT
